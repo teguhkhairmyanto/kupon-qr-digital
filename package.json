@@ -1,0 +1,31 @@
+{
+  "name": "kupon-qr-digital",
+  "version": "1.0.0",
+  "description": "Sistem Kupon Digital & Klaim Harian Berbasis QR Code Statis",
+  "main": "index.html",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teguhkhairmyanto/kupon-qr-digital.git"
+  },
+  "keywords": [
+    "coupon-system",
+    "qr-code",
+    "google-apps-script",
+    "serverless"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teguhkhairmyanto/kupon-qr-digital/issues"
+  },
+  "homepage": "https://github.com/teguhkhairmyanto/kupon-qr-digital#readme",
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
